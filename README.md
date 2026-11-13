@@ -2,7 +2,7 @@
 
 **Flutter Engineer · Mobile Accessibility · Cross-platform Product Development**
 
-I build maintainable Flutter products for iOS and Android, with accessibility treated as an engineering requirement from the beginning—not a final compliance pass.
+I build maintainable Flutter products for iOS and Android, with accessibility treated as an engineering requirement from the beginning, not a final compliance pass.
 
 My production work includes accessible fitness, learning, advocacy, and IoT experiences for U.S.-based clients. Most of that code is proprietary, so the public repositories below demonstrate the engineering practices I use professionally without reproducing client implementations.
 
